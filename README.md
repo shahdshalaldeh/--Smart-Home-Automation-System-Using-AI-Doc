@@ -21,7 +21,6 @@ Course Information
 
 * Course: Software Engineering
 * Project Type: Academic Documentation and System Design
-* Supervisor: Dr. Ahmad Hassaneh
 
 Technologies and Tools
 
